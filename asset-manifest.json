@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/nickridwan/Portofolio.git/static/css/main.2a6e75d5.css",
-    "main.js": "/nickridwan/Portofolio.git/static/js/main.29167d93.js",
-    "static/media/Screenshot (6).png": "/nickridwan/Portofolio.git/static/media/Screenshot (6).03542729c9681cf27b19.png",
-    "static/media/Screenshot (5).png": "/nickridwan/Portofolio.git/static/media/Screenshot (5).8bbc21af0c5311176050.png",
-    "static/media/boy.png": "/nickridwan/Portofolio.git/static/media/boy.4f6412faf7378fc7ab78.png",
-    "static/media/Screenshot (7).png": "/nickridwan/Portofolio.git/static/media/Screenshot (7).8e85145cae237647176f.png",
-    "static/media/2022-03-05 (1).png": "/nickridwan/Portofolio.git/static/media/2022-03-05 (1).33c19b65424529d4f187.png",
-    "static/media/Screenshot 2022-04-19 223413.png": "/nickridwan/Portofolio.git/static/media/Screenshot 2022-04-19 223413.676619f1efc2ee1f1339.png",
-    "static/media/glassesimoji.png": "/nickridwan/Portofolio.git/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
-    "static/media/structure.png": "/nickridwan/Portofolio.git/static/media/structure.4127b36258b5e9dc8f88.png",
-    "static/media/css.png": "/nickridwan/Portofolio.git/static/media/css.02d225c7df0b28341d8d.png",
-    "static/media/thumbup.png": "/nickridwan/Portofolio.git/static/media/thumbup.e06790ba656f0397cbe5.png",
-    "static/media/humble.png": "/nickridwan/Portofolio.git/static/media/humble.c8b32b53675e68978981.png",
-    "static/media/heartemoji.png": "/nickridwan/Portofolio.git/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
-    "static/media/html-5.png": "/nickridwan/Portofolio.git/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
-    "static/media/crown.png": "/nickridwan/Portofolio.git/static/media/crown.dbe416beae9b49b842ab.png",
-    "static/media/Vector2.png": "/nickridwan/Portofolio.git/static/media/Vector2.28db5bfd58081dd1df1b.png",
-    "static/media/glasses.png": "/nickridwan/Portofolio.git/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
-    "static/media/js.png": "/nickridwan/Portofolio.git/static/media/js.3dfb665e058d08c99f28.png",
-    "index.html": "/nickridwan/Portofolio.git/index.html",
-    "main.2a6e75d5.css.map": "/nickridwan/Portofolio.git/static/css/main.2a6e75d5.css.map",
-    "main.29167d93.js.map": "/nickridwan/Portofolio.git/static/js/main.29167d93.js.map"
+    "main.css": "/Portofolio/static/css/main.2a6e75d5.css",
+    "main.js": "/Portofolio/static/js/main.d3509f18.js",
+    "static/media/Screenshot (6).png": "/Portofolio/static/media/Screenshot (6).03542729c9681cf27b19.png",
+    "static/media/Screenshot (5).png": "/Portofolio/static/media/Screenshot (5).8bbc21af0c5311176050.png",
+    "static/media/boy.png": "/Portofolio/static/media/boy.4f6412faf7378fc7ab78.png",
+    "static/media/Screenshot (7).png": "/Portofolio/static/media/Screenshot (7).8e85145cae237647176f.png",
+    "static/media/2022-03-05 (1).png": "/Portofolio/static/media/2022-03-05 (1).33c19b65424529d4f187.png",
+    "static/media/Screenshot 2022-04-19 223413.png": "/Portofolio/static/media/Screenshot 2022-04-19 223413.676619f1efc2ee1f1339.png",
+    "static/media/glassesimoji.png": "/Portofolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/structure.png": "/Portofolio/static/media/structure.4127b36258b5e9dc8f88.png",
+    "static/media/css.png": "/Portofolio/static/media/css.02d225c7df0b28341d8d.png",
+    "static/media/thumbup.png": "/Portofolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Portofolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Portofolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/html-5.png": "/Portofolio/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
+    "static/media/crown.png": "/Portofolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Portofolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/Portofolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/js.png": "/Portofolio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/Portofolio/index.html",
+    "main.2a6e75d5.css.map": "/Portofolio/static/css/main.2a6e75d5.css.map",
+    "main.d3509f18.js.map": "/Portofolio/static/js/main.d3509f18.js.map"
   },
   "entrypoints": [
     "static/css/main.2a6e75d5.css",
-    "static/js/main.29167d93.js"
+    "static/js/main.d3509f18.js"
   ]
 }
